@@ -1,3 +1,3 @@
 # CodeSignalExercises
  
-    At This repository I'll save all the exercises I've done on CodeSignal Website.
+    In this repository I'll save all the exercises that I've done on CodeSignal Website.

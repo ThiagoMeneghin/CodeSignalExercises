@@ -1,6 +1,3 @@
-a = [[1, 2, 3],
-     [4, 5, 6],
-     [7, 8, 9]]
 def rotateImage(a):   
     h = len(a)
     matrix = [[0 for x in range(h)] for y in range(h)] 
@@ -12,5 +9,3 @@ def rotateImage(a):
             matrix[i][h -(x + 1)] = a[x][y]
             i += 1
     return matrix
-mat = rotateImage(a)
-print(mat)
